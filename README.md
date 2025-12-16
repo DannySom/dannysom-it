@@ -9,3 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Zabbix Network Monitoring Lab</b>
+  - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
