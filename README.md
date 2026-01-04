@@ -13,6 +13,6 @@
   - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
   - [Creating Items, Triggers, and Graphs](https://github.com/DannySom/Implementing-Host-Monitoring-and-Triggers)
 - <b>IT Support Knowledge Base</b>
-  - [Power Issues](https://github.com/DannySom/Power-issues)
-  - [Network Issues](https://github.com/DannySom/Troubleshooting-Network-Issues)
-  - [Printer Issues](https://github.com/DannySom/Printer-Issues)
+  - [Troubleshooting Power Issues](https://github.com/DannySom/Power-issues)
+  - [Troubleshooting Network Issues](https://github.com/DannySom/Troubleshooting-Network-Issues)
+  - [Troubleshooting Printer Issues](https://github.com/DannySom/Printer-Issues)
