@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DannySom/osTicket-lifestyle)
 - <b>Configuring Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DannySom/Configuring-Active-directory)
-  - [Configuring Group Policy Objects within Active Directory](https://github.com/DannySom/Group-Policy-Objects)
-  - [Configuring DNS server within Active Directory](https://github.com/DannySom/DNS-configuration)
+  - [Implementing Group Policy Objects](https://github.com/DannySom/Group-Policy-Objects)
+  - [Configuring DNS server within](https://github.com/DannySom/DNS-configuration)
 - <b>Zabbix Network Monitoring Lab</b>
   - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
   - [Creating Items, Triggers, and Graphs](https://github.com/DannySom/Implementing-Host-Monitoring-and-Triggers)
