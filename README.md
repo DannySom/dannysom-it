@@ -7,7 +7,7 @@
 
 ## - <b>osTicket (Help Desk Ticketing System)</b> 
 **Description:** <p/>
-This project demonstrates the deployment and configuration of the osTicket help desk ticketing system in a lab environment. It covers creating SLA's, tickets workflows to simulate real-world IT support operations, including ticket creation, assignment, resolution, and closure.
+This project demonstrates the deployment and configuration of the osTicket help desk ticketing system in a lab environment. It covers installation steps, post-installation configuring, and mock tickets workflows to simulate real-world IT support operations, including ticket creation, SLA's, assignment, resolution, and closure.
 
   - [osTicket: Prerequisites and Installation](https://github.com/DannySom/OS-ticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/DannySom/osTicket-post-installation-setup)
