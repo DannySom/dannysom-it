@@ -26,6 +26,7 @@ This project focuses on using Zabbix, an open-source network and system monitori
 
   - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
   - [Creating Items, Triggers, and Graphs](https://github.com/DannySom/Implementing-Host-Monitoring-and-Triggers)
+  - [Simulating Monitoring Alerts and Incident Responses](https://github.com/DannySom/Simulating-Monitoring-Alerts-and-Incident-Responses)
 
 ## - <b>IT Support Knowledge Base</b>
 **Description:** <p/>
