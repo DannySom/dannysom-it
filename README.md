@@ -1,9 +1,9 @@
 <h1>Hi, I'm Danny, an <a href="https://github.com/DannySom">IT Professional</a>👋</h1>
 
  <h2>About me:</h2>
+Entry level IT professional focused on troubleshooting, monitoring, and reliable system operations. Experienced with Active Directory, Azure cloud Virtual machines, Network Fundamentals, and alert based troubleshooting through hands-on labs.
 
-
- <h2>👨‍💻 Information Technology Projects:</h2>
+#  <h2>👨‍💻 Information Technology Projects:</h2>
 
 ## - <b>osTicket (Help Desk Ticketing System)</b> 
 **Description:** <p/>
