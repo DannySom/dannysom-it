@@ -5,9 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DannySom/OS-ticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/DannySom/osTicket-post-installation-setup)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DannySom/osTicket-lifestyle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DannySom/Configuring-Active-directory)
   - [Configuring DNS server](https://github.com/DannySom/DNS-configuration)
 - <b>Zabbix Network Monitoring Lab</b>
   - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
