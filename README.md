@@ -6,9 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DannySom/OS-ticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/DannySom/osTicket-post-installation-setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DannySom/osTicket-lifestyle)
-- <b>Microsoft Azure</b>
+- <b>Configuring Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DannySom/Configuring-Active-directory)
-  - [Configuring DNS server](https://github.com/DannySom/DNS-configuration)
+  - [Configuring Group Policy Objects within Active Directory](https://github.com/DannySom/Group-Policy-Objects)
+  - [Configuring DNS server within Active Directory](https://github.com/DannySom/DNS-configuration)
 - <b>Zabbix Network Monitoring Lab</b>
   - [Installing and Configuring Zabbix Server and Agent](https://github.com/DannySom/Zabbix-Network-Monitoring)
   - [Creating Items, Triggers, and Graphs](https://github.com/DannySom/Implementing-Host-Monitoring-and-Triggers)
